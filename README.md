@@ -1,6 +1,6 @@
 ---
 title: Qatar Labor Laws Assistant
-emoji: 🇶🇦
+emoji: 🌍
 colorFrom: purple
 colorTo: blue
 sdk: gradio
